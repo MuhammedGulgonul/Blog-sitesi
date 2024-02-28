@@ -4,8 +4,8 @@
 
 :root {
   --header-height: 3.5rem;
-  --hue: 112;
-  --first-color: hsl(var(--hue), 69%, 44%);
+  --hue: 312;
+  --first-color: hsl(var(--hue), 70%, 50%);
   --first-color-alt: hsl(var(--hue), 56%, 35%);
   --title-color: hsl(228, 8%, 95%);
   --text-color: hsl(228, 8%, 65%);
